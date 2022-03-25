@@ -1,3 +1,4 @@
+#Code for image restoration using OpenCVC FMM and NS algorithm
 import cv2 as cv
 import sys
 import numpy as np
